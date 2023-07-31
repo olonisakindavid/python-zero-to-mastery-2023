@@ -52,7 +52,7 @@ Each project is located in its own directory. To run a specific project, navigat
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ## Acknowledgements
 
